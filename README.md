@@ -32,6 +32,5 @@ Unfortunately, at the moment I do not wish to provide the source code. Perhaps i
 - VSCodium [MIT](https://github.com/VSCodium/vscodium/blob/master/LICENSE)
 - GithubDesktop [MIT](https://github.com/desktop/desktop/blob/development/LICENSE)
 - GoofCord [OSL-3.0](https://github.com/Milkshiift/GoofCord?tab=readme-ov-file#OSL-3.0-1-ov-file)
-- Rocket.Chat [MIT](https://github.com/RocketChat/Rocket.Chat.Electron?tab=MIT-1-ov-file#MIT-1-ov-file)
 
 Any logos, images, or source code do not belong to me !
