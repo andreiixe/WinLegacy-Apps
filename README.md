@@ -13,6 +13,7 @@ All programs (those that function and can provide some of their functionalities)
 - VSCodium
 - Github Desktop 
 - GoofCord
+- Spotify (Spotlegacy)
 
 # How long will it take for new programs and updates to appear?
 
